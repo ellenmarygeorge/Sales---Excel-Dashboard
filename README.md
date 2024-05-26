@@ -1,6 +1,8 @@
 # Sales---Excel-Dashboard
 Ecommerce Sales Analysis Dashboard
 
+This dashboard provides a comprehensive analysis of ecommerce sales performance, including year-over-year growth, category and subcategory insights, geographical distribution, and customer segment metrics.
+
 ### Analysis Questions for the Ecommerce Sales Dashboard
 
 1. **Overall Performance:**

@@ -1,4 +1,6 @@
 # Sales---Excel-Dashboard
+Developed an interactive dashboard to analyze ecommerce sales performance, highlighting key metrics such as year-over-year growth, category and subcategory sales, geographical sales distribution, and customer segment insights, to drive data-driven decision-making.
+
 Ecommerce Sales Analysis Dashboard
 
 This dashboard provides a comprehensive analysis of ecommerce sales performance, including year-over-year growth, category and subcategory insights, geographical distribution, and customer segment metrics.
